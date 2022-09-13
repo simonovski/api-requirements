@@ -94,7 +94,9 @@ The following dataset is the only dataset you need to be able to serve on the AP
 
 ## Setup       
 composer install
+
 php artisan:migrate
+
 php artisan db:seed
 
 ## Usage
